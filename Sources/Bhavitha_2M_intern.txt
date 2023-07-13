@@ -1,0 +1,6 @@
+This is CHittiprolu Bhavitha.
+An Intern at truminds for 2 months. 
+Intern period: 15th may to 14th july of 2023.
+Doing project under Arun Kumar RN Senior tech lead at truminds.
+Project 1: Image segmentationand beyond.
+Project 2: LLM interface for files on device can retrieve answer to the query and can provide the location of the file from which answer is retrieved.
