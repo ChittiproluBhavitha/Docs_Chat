@@ -32,9 +32,12 @@ python create_index.py
 
 streamlit run docs_chat.py
 
-#References:
+# References:
 1. For Docs_Chat Model building logic
 https://artificialcorner.com/gpt4all-is-the-local-chatgpt-for-your-documents-and-it-is-free-df1016bc335
 2. For Streamlit chatbot interface building
 https://blog.streamlit.io/how-to-build-an-llm-powered-chatbot-with-streamlit/
+
+# Collab Notebook:
+It is the model code for question and answers on documents
    
