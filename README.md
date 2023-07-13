@@ -7,7 +7,9 @@ Chat with all documents present in a directory . This provides response along wi
 1. open vscode
    
 '''
-python -m venv myenv 
+
+python -m venv myenv
+
 '''
 
 3. myenv in above code is virtual environment name we give
