@@ -27,6 +27,10 @@ pip install -r requirements.txt
    
 python create_index.py
 
+```
+ytjfkf
+```
+
 ## Step 5 -- Streamlit file for Chatbot on Docs
 7. Run docs_chat.py file to build chatbot interface .
 
