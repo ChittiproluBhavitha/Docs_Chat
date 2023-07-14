@@ -25,11 +25,10 @@ pip install -r requirements.txt
 ## Step 4 -- Building Indices:
 6. Run create_index.py file to build indices for similarity search(my_faiss_index forms by running this file)
    
+```
 python create_index.py
+```
 
-```
-ytjfkf
-```
 
 ## Step 5 -- Streamlit file for Chatbot on Docs
 7. Run docs_chat.py file to build chatbot interface .
